@@ -161,7 +161,7 @@ GameObject:
   - component: {fileID: 11400010}
   - component: {fileID: 11462408}
   - component: {fileID: 11493974}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: OVRPlayerController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
